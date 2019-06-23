@@ -1,6 +1,3 @@
-# config.json
-.config.json
-
 # Logs
 logs
 *.log
@@ -77,3 +74,4 @@ typings/
 
 # FuseBox cache
 .fusebox/
+config.json
